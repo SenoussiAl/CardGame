@@ -54,3 +54,7 @@ The `TradeArea` class represents the area where players can trade cards. It incl
 1. **Compile the Code**: Ensure you have a C++ compiler installed. Compile the code using the following command:
    ```sh
    g++ -o cardgame *.cpp
+
+1. **Run the Game**: Execute the compiled binary to start the game:  
+   ```sh
+   ./cardgame
